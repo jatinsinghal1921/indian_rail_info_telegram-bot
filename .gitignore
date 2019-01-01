@@ -1,4 +1,3 @@
-output.json
-ngrok.exe
-bot.py
-__pycache__
+/__pycache__/
+/.idea/
+/.vscode/

@@ -1,0 +1,13 @@
+{
+    "200" :	"Success",
+    "210" :	"Train does not run on the date queried",
+    "211" :	"Train does not have journey class queried",
+    "220" :	"Flushed PNR",
+    "221" :	"Invalid PNR",
+    "230" :	"Date chosen for the query is not valid for the chosen parameters",
+    "404" :	"Data could not be loaded on our servers. No data available",
+    "405" :	"Data could not be loaded on our servers. Request couldn’t go through",
+    "500" :	"Unauthorized API Key",
+    "501" :	"Account Expired",
+    "502" :	"Invalid arguments passed"
+}
